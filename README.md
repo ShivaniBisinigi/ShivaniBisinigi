@@ -11,5 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=BISINIGISHIVANI&style=flat-square&color=blue" alt=""/>
 </div>
 
+###  💻 &nbsp; About Me :
+Embarking on the journey of frontend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
